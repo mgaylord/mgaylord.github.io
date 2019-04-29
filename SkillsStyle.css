@@ -1,0 +1,28 @@
+body{
+    background-color:darkslategrey; 
+    color:whitesmoke; 
+}
+
+h1{
+    color:white; 
+    text-decoration:underline; 
+    text-align:center; 
+}
+
+ul{
+    background-color:aliceblue; 
+    color:black; 
+    text-align:center; 
+    padding-top:10px; 
+    padding-bottom:10px; 
+   list-style:none; 
+   border:double; 
+   border-color:darkblue; 
+   font-size:22px;
+}
+
+li{
+    margin:5px; 
+    padding-bottom:10px; 
+}
+

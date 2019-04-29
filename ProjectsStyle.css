@@ -1,0 +1,29 @@
+body{
+    background-color:darkslategrey; 
+    color:white; 
+}
+
+h1{
+    text-align:center; 
+    text-decoration:underline; 
+}
+
+#intro{
+    display:block; 
+    background-color:ghostwhite; 
+    color:darkblue; 
+    text-align:center; 
+    padding-top:50px; 
+    padding-bottom:50px; 
+    font-weight:bold; 
+    border:double; 
+    border-width:thick;
+    margin-bottom:5px; 
+}
+
+ul{
+    background-color:lightblue; 
+    color:black; 
+    padding-top:10px; 
+    padding-bottom:10px; 
+}
